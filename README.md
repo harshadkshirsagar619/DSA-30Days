@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

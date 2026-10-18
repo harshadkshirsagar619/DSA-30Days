@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0507-perfect-number) |
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshadkshirsagar619/DSA-30Days/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

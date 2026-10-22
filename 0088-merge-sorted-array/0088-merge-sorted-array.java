@@ -1,7 +1,7 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         
-        int left = 0;
+     /*   int left = 0;
         int right = 0;
         int[] arr = new int[m+n];
         int p = 0;
@@ -38,6 +38,32 @@ class Solution {
                 nums1[i] = arr[i];
             
         }
+        */
+
+      int left = m-1;
+        int right =0;
+
+        while(left >= 0 && right < n)
+        {
+            if(nums1[left] > nums2[right])
+            {
+                int temp = nums1[left];
+                nums1[left] = nums2[right];
+                nums2[right] = temp;
+
+                left--;
+                right++;
+            }else{
+                break;
+            }
+        }
+        for(int i = m;i<m+n;i++)
+        {
+            nums1[i] = nums2[i-m];
+        }
+
+        Arrays.sort(nums1);
+       
         
     }
 }
